@@ -1,2 +1,8 @@
 
-ore-reserve-estimation-using-Machine-learninig
+ore reserve estimation using Machine learninig
+
+open using SVM and NN.py for python compiler
+
+open SVM and NN.ipynb for jupyter notebook
+
+Nome_Gold_reserve_dataset.csv contains the dataset
