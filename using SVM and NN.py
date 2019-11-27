@@ -18,11 +18,6 @@ import pandas as pd
 import numpy as np
 
 
-# In[4]:
-
-
-cd C:\Users\sachin\Downloads
-
 
 # In[5]:
 
@@ -114,7 +109,7 @@ print(rmse)
 # In[17]:
 
 
-# finding root mean square error
+# finding mean square error
 mse=mean_squared_error(y_test, y_pred)
 print(mse)
 
@@ -157,6 +152,7 @@ clf.score(X_test,y_test)
 
 
 # In[88]:
+# using Neural Network
 
 
 NN_model = Sequential()
